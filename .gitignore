@@ -18,3 +18,5 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+templates/project/config.rb
+templates/project/index.html
